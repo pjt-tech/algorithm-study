@@ -4,4 +4,4 @@
 ----------------------------------------
 ## BaekJoon Online judge
 - [BackJoon Online judge 사이트](https://www.acmicpc.net/)
-- [BackJoon Online judge 문제풀이](https://www.acmicpc.net/) 
+- [BackJoon Online judge 문제풀이](https://github.com/pjt-tech/algorithm-study/tree/master/BaekJoon) 
